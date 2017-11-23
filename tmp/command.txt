@@ -1,0 +1,1 @@
+node geo2svg -o ../../../output2.svg ../../../geojson.json
